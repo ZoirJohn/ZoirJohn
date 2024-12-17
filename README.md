@@ -6,7 +6,7 @@ ZoirJohn's streak
 ## 📊 GitHub Stats
 ![ZoirJohn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZoirJohn&show_icons=true)
 
-## Komroncube's Top Languages
+## ZoirJohn's Top Languages
 ![ZoirJohn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoirJohn)
 
 ## 🏆 Trophies
