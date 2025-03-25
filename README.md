@@ -1,30 +1,47 @@
-<h1 align="center">Hi 👋, I'm Zoirjon aka ZoirJohn</h1>
-<h3 align="center">A GOAT frontend developer</h3>
+# Hi there, I'm ZoirJohn! 🚀  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zoirjohn&label=Profile%20views&color=0e75b6&style=flat" alt="zoirjohn" /> </p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZoirJohn&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZoirJohn&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoirJohn&layout=compact&theme=radical)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zoirjohn" alt="zoirjohn" /></a> </p>
+## 👨‍💻 About Me  
+🚀 **Frontend Developer | React & TypeScript Enthusiast**  
+🏀 **Aspiring Professional Athlete**  
 
-- 🔭 I’m currently working on **social media app**
+With over **2 years of programming experience**, I've built projects using **React, TypeScript, Redux, Next.js, and WebSockets**. I enjoy tackling complex problems, optimizing performance, and creating smooth user experiences.  
 
-- 👯 I’m looking to collaborate on **TypeScript**
+But my ambitions go beyond coding. I'm also on a mission to become an **elite basketball athlete**—constantly training to push my limits. Whether it's crafting efficient code or increasing my vertical jump, I'm all about **growth and optimization**.  
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZoirJohn](https://github.com/ZoirJohn)
+## 🛠 Tech Stack  
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-- 💬 Ask me about **React, TypeScript, SCSS, CSS etc.**
+### 💻 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
-- 📫 How to reach me **zokirjonovzoirbek20.05@gmail.com**
+### 🔗 Other Tools  
+![WebSockets](https://img.shields.io/badge/WebSockets-007ACC?style=for-the-badge&logo=websocket&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/instagram.com/vwxyzoirjohn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/vwxyzoirjohn" height="30" width="40" /></a>
-</p>
+## 🏆 Achievements  
+🏅 **Built multiple real-world projects**  
+🏅 **Learning Next.js 15**  
+🏅 **Achieved an IELTS 7.5 and SAT 1390**  
+🏅 **Grinding towards an elite basketball physique**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🌍 Current Projects  
+🔹 **Womazing** – A React-TypeScript project for Upwork  
+🔹 **Brella Samurai & Uychi Ziyo** – Web applications in development  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoirjohn&show_icons=true&locale=en&layout=compact" alt="zoirjohn" /></p>
+## 📫 Get in Touch  
+📌 **GitHub:** [ZoirJohn](https://github.com/ZoirJohn)  
+📌 **LinkedIn:** _(Add link if available)_  
+📌 **Telegram:** _(Optional)_  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoirjohn&show_icons=true&locale=en" alt="zoirjohn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoirjohn&" alt="zoirjohn" /></p>
+💡 _"Code hard. Train harder."_ 🚀  
