@@ -1,6 +1,6 @@
 # Hi there, I'm ZoirJohn! 🚀  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ZoirJohn&theme=radical&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZoirJohn)](https://git.io/streak-stats)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZoirJohn&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoirJohn&layout=compact&theme=radical)  
 
