@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me  
 🚀 **Frontend Developer | React & TypeScript Enthusiast**  
 
-With over **4 years of programming experience**, I've built projects using **React, TypeScript, Redux, Next.js, and WebSockets**. I enjoy tackling complex problems, optimizing performance, and creating smooth user experiences.  
+With over **5+ years of programming experience**, I've built projects using **React, TypeScript, Redux, Next.js, and WebSockets**. I enjoy tackling complex problems, optimizing performance, and creating smooth user experiences.  
 
 ## 🛠 Tech Stack  
 ### 🌐 Frontend  
