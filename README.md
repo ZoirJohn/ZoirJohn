@@ -21,7 +21,7 @@ With over **5+ years of programming experience**, I've built projects using **Re
 
 ### 🔗 Other Tools  
 ![WebSockets](https://img.shields.io/badge/WebSockets-007ACC?style=for-the-badge&logo=websocket&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ## 🌍 Current Projects  
