@@ -1,7 +1,7 @@
 # Hi there, I'm ZoirJohn! 🚀  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zoirjohn&theme=dark&card_width=600&card_height=200)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZoirJohn&show_icons=true&theme=radical)]  
+![GitHub Streak](https://streak-stats.demolab.com?user=zoirjohn&theme=dark&card_width=600&card_height=200)(https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZoirJohn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoirJohn&layout=compact&theme=radical)  
 
 ## 👨‍💻 About Me  
