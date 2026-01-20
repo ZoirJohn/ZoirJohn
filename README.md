@@ -1,6 +1,6 @@
 # Hi there, I'm ZoirJohn! 🚀  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZoirJohn&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ZoirJohn)](https://github.com/pranesh-2005/github-readme-stats-fast)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZoirJohn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoirJohn&layout=compact&theme=radical)  
 
