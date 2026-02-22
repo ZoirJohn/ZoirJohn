@@ -1,9 +1,5 @@
 # Hi there, I'm ZoirJohn! 🚀  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZoirJohn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoirJohn&layout=compact&theme=radical)  
-
-## 👨‍💻 About Me  
 🚀 **Frontend Developer | React & TypeScript Enthusiast**  
 
 I've built projects using **React, TypeScript, Redux, Next.js, and WebSockets**. I enjoy tackling complex problems, optimizing performance, and creating smooth user experiences.  
